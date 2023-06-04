@@ -45,7 +45,11 @@ Git add
 
 ![картинка](https://koshka.top/uploads/posts/2021-12/1640199637_1-koshka-top-p-milie-kotiki-v-odezhde-1.jpg)
 
-Работа с ссылками
+# Работа с ссылками
+Для добавления ссылок необходимо записать команду:
+
+*[ Надпись ссылки ]  ( сама ссылка  )*
+
 
 [Работа с маркдаун](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
 
