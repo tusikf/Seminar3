@@ -54,6 +54,12 @@ Git add
 [Работа с маркдаун](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
 
 ---
+# Отчертить чертой
+---
+Для того чтобы отчертить чертой текст, необходимо написать три тире: *---*
+
+---
+
 
 Работа с цитатами и списками
 
